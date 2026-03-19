@@ -154,6 +154,7 @@ CLI 並不需要被完全重寫。
 
 - **[Rewrite Your CLI for Agents or Get Replaced][ref-dev-rewrite]** (DEV Community)  
   強調 CLI 應轉為 machine-friendly interface，並提出 JSON-first、schema-aware 等設計方向。
+  這類觀點在 Google 的文章中也被提出，例如「You Need to Rewrite Your CLI for AI Agents」中提到 CLI 應轉向 JSON-first 與可預測輸出設計。
 
 - **[Hacker News Discussion: You Need to Rewrite Your CLI for AI Agents][ref-hn]**  
   討論指出 CLI 本身未必需要重寫，關鍵在於輸出結構與使用方式。
