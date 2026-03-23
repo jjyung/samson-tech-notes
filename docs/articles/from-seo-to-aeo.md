@@ -262,14 +262,9 @@ AEO 不是行銷技巧，而是資訊架構問題
 
 ```mermaid
 flowchart LR
-    A[Discovery] --> B[Retrieval]
-    B --> C[Representation]
-    C --> D[Execution]
-
-    A: llms.txt
-    B: RAG
-    C: structured content
-    D: tools / MCP
+    A["Discovery<br/>llms.txt"] --> B["Retrieval<br/>RAG"]
+    B --> C["Representation<br/>structured content"]
+    C --> D["Execution<br/>tools / MCP"]
 ```
 
 ---
