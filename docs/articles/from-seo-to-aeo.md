@@ -3,9 +3,9 @@
 ## TL;DR
 
 傳統 SEO 是讓「搜尋引擎找到你」，  
-AEO（Answer Engine Optimization）是讓「AI 直接用你當答案」。
+AEO（Answer Engine Optimization）是讓內容更容易被 AI 理解、抽取、整合與引用。
 
-而 llms.txt，正是這個轉變中的第一個「Agent-friendly interface」。
+而 llms.txt，可以把它看成這個轉變中一種早期的「Agent-friendly discovery hint」。
 
 ---
 
@@ -29,7 +29,7 @@ AEO（Answer Engine Optimization）是讓「AI 直接用你當答案」。
 - 可抽取（extractable）
 - 可引用（citable）
 
-👉 而 HTML 並不是為這件事設計的
+👉 問題不是 HTML 無法承載內容，而是多數網頁對 AI 抽取並不是理想介面
 
 ---
 
@@ -49,11 +49,15 @@ AEO 的核心是：
 
 > 將內容設計成「可被 AI 直接使用作為答案」 [AEO 定義][aeo-core]
 
+更精確地說：
+
+> 它不是取代 SEO，而是增加一個新的優化面向：讓內容更容易進入 AI answer pipeline
+
 也就是：
 
 - AI 能理解
 - AI 能抽取
-- AI 願意引用
+- AI 更容易整合，並在支援引用時納入來源
 
 👉 本質轉變：
 
@@ -64,7 +68,7 @@ AEO 的核心是：
 | 使用者行為 | Click | No-click        |
 | 成功指標   | 流量  | 被引用          |
 
-👉 SEO → AEO：
+👉 SEO 與 AEO 的差別：
 
 > 從「被找到」→「被使用」
 
@@ -107,11 +111,16 @@ llms.txt 是：
 
 👉 本質：
 
-> 幫助 AI 有效率理解與使用網站內容 [llms-definition][llms-definition]
+> 幫助 AI 更有效率理解與使用網站內容的早期提案 [llms-definition][llms-definition]
+
+它比較像：
+
+- 一個 AI-friendly discovery hint
+- 一個尚未完全標準化、也尚未被廣泛驗證效果的做法
 
 ---
 
-### llms.txt 解決的問題
+### llms.txt 想解決的問題
 
 LLM 在 web 上的問題：
 
@@ -123,6 +132,11 @@ LLM 在 web 上的問題：
 
 - curated content index
 - 明確優先順序
+
+但要注意：
+
+- 它不是保證被採用的協議
+- 也不是 AI citation 的充分條件
 
 ---
 
@@ -136,13 +150,13 @@ LLM 在 web 上的問題：
 
 👉 更精準的說法：
 
-> llms.txt 是 AI 時代的「內容 routing layer」 [llms-role][llms-role]
+> llms.txt 比較像 AI 時代的一個內容 discovery / routing hint [llms-role][llms-role]
 
 ---
 
-### 更進一步（你的觀點）
+### 更進一步（這篇的觀點）
 
-> 🔥 llms.txt = Agent DX 的 Discovery Layer
+> 🔥 llms.txt 可以視為 Agent DX 的 Discovery Layer 之一
 
 ---
 
@@ -238,6 +252,7 @@ AEO 不是行銷技巧，而是資訊架構問題
 - 尚未標準化
 - AI 不一定採用
 - 對 SEO 影響有限
+- 對 AI citation 的效果仍缺乏穩定證據
 
 👉 有觀點指出：
 
@@ -258,13 +273,43 @@ AEO 不是行銷技巧，而是資訊架構問題
 
 ---
 
-## Agent DX Stack
+## llms.txt as an Agent-Friendly Interface
+
+如果 SEO 關心的是：
+
+> search engine 能不能找到你的內容
+
+那從 Agent DX 的角度看，問題是：
+
+> agent 能不能快速理解你的內容
+
+這也是 llms.txt 跟 AEO 真正接起來的地方。
+
+它的重要性不在於取代 HTML，
+而在於提供一個對 agent 更友善的內容入口。
+
+因為大多數 HTML 頁面對 agent 來說：
+
+- 太 noisy
+- 太依賴版面與導覽
+- 不容易快速判斷哪些內容最重要
+
+而 llms.txt 的價值在於：
+
+- 提供更低噪音的內容索引
+- 降低 discovery 成本
+- 幫助 agent 更快定位可用內容
+
+👉 所以 llms.txt 不只是 AEO tactic，
+
+它更像是把網站內容包裝成一個更 agent-friendly 的 interface。
 
 ```mermaid
 flowchart LR
-    A["Discovery<br/>llms.txt"] --> B["Retrieval<br/>RAG"]
-    B --> C["Representation<br/>structured content"]
-    C --> D["Execution<br/>tools / MCP"]
+    A["Website content"] --> B["HTML pages<br/>for humans"]
+    A --> C["llms.txt<br/>for agents"]
+    C --> D["Faster discovery"]
+    C --> E["Lower-noise understanding"]
 ```
 
 ---
@@ -278,7 +323,7 @@ AEO 不是 SEO 的替代，而是進化：
 
 而 llms.txt：
 
-> 👉 是這個轉變中的第一層協議
+> 👉 比較像是這個轉變中的第一個可實驗入口，而不是已定型的標準答案
 
 ---
 
