@@ -3,9 +3,9 @@
 ## Source
 
 - Title: `LLM Wiki`
-- Author: `jjyung`
+- Author: `karpathy`
 - Type: idea memo / operating pattern
-- URL: https://gist.githubusercontent.com/jjyung/d02f6f855402d1b05cf5ae83e354adbb/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md
+- URL: https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md
 
 ## Summary
 
