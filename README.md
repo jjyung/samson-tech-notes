@@ -1,37 +1,38 @@
 # Samson Tech Notes
 
-This repository contains my technical notes on software architecture, system design, AI agents, and engineering decision-making.
+This repository is now organized as an LLM-maintained wiki workspace, following the operating model described in [AGENTS.md](AGENTS.md).
 
-The goal of this repository is to capture ideas, trade-offs, and architectural thinking that emerge during real-world development and technical exploration.
+The repo is split into three layers:
 
-It also serves as an AionUI-operated writing workspace where ideas can be captured from conversation, expanded into notes, and turned into article drafts directly inside the repository.
+- `raw/` stores immutable source material and quick captures.
+- `wiki/` stores the maintained knowledge base that the LLM updates over time.
+- `system/` stores prompts, templates, and other workflow scaffolding.
 
-Topics include:
+## Directory Structure
 
-- System design
-- API architecture (REST, GraphQL, gRPC)
-- AI agent architectures
-- Cloud-native systems
-- Architecture decision records (ADR)
-- Technology trade-offs
+- `raw/articles/` - source articles and long-form references
+- `raw/notes/` - source notes and note series
+- `raw/inbox/ideas/` - quick captures and reading queues
+- `raw/inbox/drafts/` - early drafts before they are formalized
+- `wiki/index.md` - catalog of wiki pages
+- `wiki/log.md` - append-only activity log
+- `wiki/sources/` - source summary pages derived from `raw/`
+- `wiki/topics/` - topic synthesis pages
+- `wiki/entities/` - entity or tool pages
+- `wiki/concepts/` - reusable concept pages
+- `wiki/queries/` - filed answers, comparisons, and analyses
+- `system/prompts/` - reusable prompts for capture and writing workflows
+- `system/templates/` - reusable output templates
 
-Some of these notes may later evolve into blog posts or conference talks.
+## Workflow
 
-## Repository Structure
+1. Add new material into `raw/`.
+2. Ask the LLM to ingest it into `wiki/`.
+3. Let the LLM update `wiki/index.md`, relevant pages, and `wiki/log.md`.
+4. File useful query outputs back into `wiki/queries/` or other suitable wiki sections.
 
-- `inbox/ideas/` - raw idea capture
-- `inbox/drafts/` - early structured drafts
-- `docs/notes/` - technical notes
-- `docs/articles/` - article drafts
-- `prompts/` - reusable writing prompts
-- `templates/` - reusable output templates
+## Notes
 
-## Example Requests
-
-Examples of natural-language requests that work well with this repo:
-
-- `記下這個靈感，先放 inbox`
-- `把這段整理成 note`
-- `把這個觀點擴成 article draft`
-- `參考既有文章風格重寫`
-- `把這篇改成 LinkedIn 貼文`
+- `AGENTS.md` is the schema and operating guide for this repo.
+- Files under `raw/` should be treated as source material, not living wiki pages.
+- Files under `wiki/` are the maintained knowledge artifact.
