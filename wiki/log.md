@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-18] ingest | Agent Research
+
+- 將 `agent-research` 這個 GitHub research workspace 整理為 wiki source note。
+- 新增 `Agent Coding Agent 設計維度`，把不同 coding agent 的比較框架抽成 topic。
+- 更新 `wiki/index.md`，讓 source 與 topic 可直接被索引。
+
 ## [2026-04-18] ingest | dotLLM 與 AI 輔助開發的工程方法
 
 - 整理 `Introducing dotLLM - Building an LLM Inference Engine in C#` 為中文 source note。
