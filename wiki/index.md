@@ -18,6 +18,7 @@
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
 - [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
+- [履歷與 CV 的 LLM Agent 工作流](topics/履歷與 CV 的 LLM Agent 工作流.md) - 將公開的履歷／CV agent 資源整理成可重用 workflow 的主題頁。
 
 ## Entities
 
@@ -29,7 +30,13 @@
 - [持久化 Wiki 與 RAG 的差異](concepts/persistent-wiki-vs-rag.md) - 說明持久化知識庫模式與傳統 RAG 的差別。
 - [Wiki 維護](concepts/wiki-maintenance.md) - 說明為何維護是知識庫長期有效的核心工作。
 - [工程化讓 AI 輸出更穩定](concepts/engineering-stabilizes-ai-output.md) - 將 AI 的波動收斂為可靠產出的工程觀點。
+- [履歷證據庫](concepts/履歷證據庫.md) - 先把履歷事實整理成可追溯 evidence，再進行客製化。
+- [履歷 JD Mapping](concepts/履歷 JD Mapping.md) - 先把職缺需求與證據對齊，再進入 rewrite。
+- [履歷 QA Gate](concepts/履歷 QA Gate.md) - 在匯出前檢查事實、日期、聲稱與 ATS 風險。
+- [履歷量化追問](concepts/履歷量化追問.md) - 把缺失數字轉成可追問的量化缺口。
+- [ATS 友善輸出](concepts/ATS 友善輸出.md) - 讓履歷格式兼顧人類可讀與 ATS 可解析。
 
 ## Queries
 
 - [Queries README](queries/README.md) - Filed answers, comparisons, and analyses.
+- [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/履歷與CV的LLMAgent工作流公開資源研究.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源。
