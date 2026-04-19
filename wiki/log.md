@@ -1,5 +1,19 @@
 # Log
 
+## [2026-04-19] ingest | MIT 研究生的 AI 主動式學習法
+
+- 將使用者提供的口播案例整理為 wiki source note。
+- 上升出 `AI 主動式學習` concept page，聚焦框架提問、爭議辨識與自測題。
+- 再上升出 `AI 主動式知識管理` topic page，將方法擴展成可持續的知識管理流程。
+- 更新 `wiki/index.md`，讓 source 與 concept/topic 可直接被索引。
+
+## [2026-04-19] query | 履歷與 CV 的 LLM Agent 工作流公開資源研究
+
+- 將使用者提供的履歷／CV LLM Agent 工作流研究報告整理為 wiki query note。
+- 上升出 `履歷與 CV 的 LLM Agent 工作流` topic page，聚焦可重用 workflow 與 QA/證據/匯出設計。
+- 再拆出 `履歷證據庫`、`履歷 JD Mapping`、`履歷 QA Gate`、`履歷量化追問`、`ATS 友善輸出` 等 concept pages。
+- 補上 index 條目，方便從 wiki 直接找到這份彙整與 topic page。
+
 ## [2026-04-18] ingest | Agent Research
 
 - 將 `agent-research` 這個 GitHub research workspace 整理為 wiki source note。
