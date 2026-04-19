@@ -9,6 +9,7 @@
 
 - [Sources README](sources/README.md) - Summary pages derived from raw source material.
 - [LLM Wiki](sources/llm-wiki.md) - Summary of the persistent wiki model for LLM-managed knowledge bases.
+- [Agent Research](sources/agent-research.md) - 以 GitHub agent 專案為樣本的研究工作區，聚焦設計哲學與比較維度。
 - [dotLLM 與 AI 輔助開發的工程方法](sources/dotllm-ai-assisted-development.md) - 從 dotLLM 案例整理 AI 輔助開發如何靠工程流程變得可控。
 
 ## Topics
@@ -16,6 +17,7 @@
 - [Topics README](topics/README.md) - Topic syntheses and evolving thematic pages.
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
+- [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
 
 ## Entities
 
