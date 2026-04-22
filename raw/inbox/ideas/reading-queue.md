@@ -37,3 +37,4 @@ https://github.com/Fincept-Corporation/FinceptTerminal
 
 - [claude-code](https://fullstackladder.dev/claude-code-from-source-zh-tw/)
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [oh-my-claudecode-doc](https://omc.vibetip.help/docs)
