@@ -26,6 +26,8 @@
 1. pmxt-dev/pmxt（1.2K ★）
 可以把它想成預測市場版的 CCXT——用單一 API 串接 Polymarket、Kalshi、Limitless、Myriad。本週持續有修正與更新推出。
 
+https://github.com/Fincept-Corporation/FinceptTerminal
+
 ## Front end
 
 - astro
@@ -34,3 +36,4 @@
 ## claude
 
 - [claude-code](https://fullstackladder.dev/claude-code-from-source-zh-tw/)
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
