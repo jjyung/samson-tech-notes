@@ -24,5 +24,5 @@ aliases:
 ## 跟既有筆記的關係
 
 - [dotLLM 與 AI 輔助開發的工程方法](../sources/dotllm-ai-assisted-development.md)
-- [AI 輔助開發工作流](AI 輔助開發工作流.md)
+- [AI 輔助開發工作流](ai-assisted-development-workflow.md)
 - [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)

@@ -70,7 +70,7 @@
 
 - [Agent Research](../sources/agent-research.md)
 - [AI Coding Agent 設計維度](../topics/agent-coding-agent-design-dimensions.md)
-- [履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md)
+- [履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md)
 
 其中，[AI Coding Agent 設計維度](../topics/agent-coding-agent-design-dimensions.md) 可以直接拿來當分析框架；這份 query note 則補上 2026-04 這一波社群熱點。
 
