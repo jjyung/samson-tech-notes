@@ -7,6 +7,42 @@
 - 再上升出 `AI 主動式知識管理` topic page，將方法擴展成可持續的知識管理流程。
 - 更新 `wiki/index.md`，讓 source 與 concept/topic 可直接被索引。
 
+## [2026-04-22] query | MCP Toolbox for Databases 分享提綱
+
+- 將 `MCP Toolbox for Databases` 的內容整理成可直接分享的 5 分鐘 / 10 分鐘版大綱。
+- 以問題背景、工具層定位、實務重點與 references 組成可口語化發表的版本。
+- 更新 `wiki/index.md`，讓分享提綱可以直接被索引。
+
+## [2026-04-22] query | Agent 權限管理與 MCP 分隔分享提綱
+
+- 將 `Agent 權限管理與 MCP 分隔` 的內容整理成可直接分享的 5 分鐘 / 10 分鐘版大綱。
+- 以問題意識、三層架構、分隔策略與 references 組成可口語化發表的版本。
+- 更新 `wiki/index.md`，讓分享提綱可以直接被索引。
+
+## [2026-04-22] query | 近期 Agent 權限管理與 MCP 分隔資源整理
+
+- 將 agent 權限管理、OAuth、MCP security / authorization、tools、roots、OWASP 與 NIST 相關來源整理成 query note。
+- 上升出 `Agent 權限管理與 MCP 分隔` topic page，聚焦 capability separation、least privilege 與邊界治理。
+- 更新 `wiki/index.md`，讓 query note 與 topic page 可直接被索引。
+
+## [2026-04-22] query | 近期 MCP Toolbox for Databases 資源整理
+
+- 將 MCP Toolbox for Databases 的官方文件、repo、examples、launch article 與 MCP spec 整理成 query note。
+- 上升出 `MCP Toolbox for Databases` topic page，提供後續分享時可直接引用的背景與定位。
+- 更新 `wiki/index.md`，讓 query note 與 topic page 可直接被索引。
+
+## [2026-04-22] query | 近期 System Design 熱門與經典資源研究
+
+- 將近期熱門 system design 文章與長期經典資源整理成 query note，包含 database / storage / reliability / architecture trade-offs。
+- 上升出 `System Design 熱點與經典資源` topic page，提供後續持續增補的系統設計分析框架。
+- 更新 `wiki/index.md`，讓 query note 與 topic page 可直接被索引。
+
+## [2026-04-22] query | 近期 Agent 生態熱門文章研究
+
+- 將 2026-04 前後 agent 相關高討論來源整理成 query note，重點放在 agentic coding、MCP vs skills、agent teams 與開源 coding agent。
+- 上升出 `Agent 生態近期熱點` topic page，將近期社群熱點與既有 `AI Coding Agent 設計維度` 對齊。
+- 更新 `wiki/index.md`，讓 query note 與 topic page 可直接被索引。
+
 ## [2026-04-19] query | 履歷與 CV 的 LLM Agent 工作流公開資源研究
 
 - 將使用者提供的履歷／CV LLM Agent 工作流研究報告整理為 wiki query note。

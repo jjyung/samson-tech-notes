@@ -19,6 +19,12 @@
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
 - [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
+- [Agent 生態近期熱點](topics/agent-ecosystem-hot-topics.md) - 整理 2026-04 前後 agentic coding、MCP vs skills、agent teams 與開源 coding agent 的高討論信號。
+- [MCP Toolbox for Databases](topics/MCP Toolbox for Databases.md) - 整理 Google 的 MCP Toolbox 工具、官方文件與教學，適合分享入門與實作背景。
+- [Agent 權限管理與 MCP 分隔](topics/Agent 權限管理與 MCP 分隔.md) - 整理 agent 權限管理、tool gating、OAuth、sandbox 與 MCP capability separation 的觀點。
+- [Agent 權限管理與 MCP 分隔分享提綱](queries/Agent 權限管理與 MCP 分隔分享提綱.md) - 可直接用於分享的 5 分鐘 / 10 分鐘版大綱。
+- [MCP Toolbox for Databases 分享提綱](queries/MCP Toolbox for Databases 分享提綱.md) - 可直接用於分享的 5 分鐘 / 10 分鐘版大綱。
+- [System Design 熱點與經典資源](topics/System Design 熱點與經典資源.md) - 整理近期熱門系統設計文章與經典資源，涵蓋 storage、reliability、scaling、architecture trade-offs.
 - [AI 主動式知識管理](topics/AI 主動式知識管理.md) - 把 AI 主動式學習擴展為可持續的知識管理方法。
 - [履歷與 CV 的 LLM Agent 工作流](topics/履歷與 CV 的 LLM Agent 工作流.md) - 將公開的履歷／CV agent 資源整理成可重用 workflow 的主題頁。
 
@@ -42,4 +48,7 @@
 ## Queries
 
 - [Queries README](queries/README.md) - Filed answers, comparisons, and analyses.
+- [近期 Agent 生態熱門文章研究](queries/近期 Agent 生態熱門文章研究.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號。
+- [近期 MCP Toolbox for Databases 資源整理](queries/近期 MCP Toolbox for Databases 資源整理.md) - 彙整 MCP Toolbox 的官方文件、repo、examples、launch article 與 MCP spec。
+- [近期 System Design 熱門與經典資源研究](queries/近期 System Design 熱門與經典資源研究.md) - 彙整近期熱門系統設計文章與經典資源。
 - [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/履歷與CV的LLMAgent工作流公開資源研究.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源。
