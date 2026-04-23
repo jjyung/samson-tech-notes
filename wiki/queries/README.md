@@ -1,3 +1,7 @@
+---
+aliases:
+  - Queries
+---
 # Queries
 
 Store answers worth keeping here.

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Agent Research
+---
 # Agent Research
 
 ## Source
@@ -5,7 +9,7 @@
 - Title: `Agent Research`
 - Author: `jjyung`
 - Type: research workspace / meta notes repo
-- URL: https://github.com/jjyung/agent-research
+- URL: [https://github.com/jjyung/agent-research](https://github.com/jjyung/agent-research)
 
 ## Summary
 
@@ -76,18 +80,18 @@
 
 ## Relevance To This Wiki
 
-這個 repo 對 `samson-tech-notes` 很有參考價值，因為它展示了：
+這個 repo 對 [samson-tech-notes](../../README.md) 很有參考價值，因為它展示了：
 
 - 如何把外部來源轉成可維護的知識頁
 - 如何用固定結構整理 research notes
 - 如何比較不同 agent 工具的 design space
 - 如何把研究結果回寫成長期可用的 wiki 資產
 
-它和這個 wiki 的關係很自然：兩者都不是單純存檔，而是在建構會持續增長的知識系統。
+它和這個 [wiki](../README.md) 的關係很自然：兩者都不是單純存檔，而是在建構會持續增長的知識系統。
 
 ## Suggested Follow-up Pages
 
-- `wiki/topics/agent-coding-agent-design-dimensions.md`
-- `wiki/concepts/persistent-wiki-vs-rag.md`
-- `wiki/topics/ingest-workflow.md`
-- `wiki/topics/query-as-knowledge-production.md`
+- [AI Coding Agent 設計維度](../topics/agent-coding-agent-design-dimensions.md)
+- [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)
+- [Ingest 工作流](../topics/ingest-workflow.md)
+- [Query 即知識生產](../topics/query-as-knowledge-production.md)

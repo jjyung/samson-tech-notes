@@ -1,3 +1,7 @@
+---
+aliases:
+  - 持久化 Wiki 與 RAG 的差異
+---
 # 持久化 Wiki 與 RAG 的差異
 
 ## 核心差異

@@ -1,3 +1,8 @@
+---
+aliases:
+  - 工程化讓 AI 輸出更穩定
+  - Engineering stabilizes AI output
+---
 # 工程化讓 AI 輸出更穩定
 
 ## 核心觀點

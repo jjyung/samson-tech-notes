@@ -74,6 +74,11 @@
 - Added a source note at `wiki/sources/llm-wiki.md`.
 - Indexed the note in `wiki/index.md`.
 
+## [2026-04-23] maintenance | Normalize wiki references and add AI dev workflow pages
+
+- 修復 wiki 內部 reference 區塊與相關頁面的 markdown links，讓關聯頁面與來源引用都能直接點開。
+- 新增 `AI 輔助開發工作流` 與 `多模型 Review` 兩個 topic pages，並更新 `wiki/index.md`。
+
 ## [2026-04-18] maintenance | Reorganized repository around raw/wiki/system
 
 - Moved source materials from `docs/` into `raw/`.

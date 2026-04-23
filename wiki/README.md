@@ -1,3 +1,7 @@
+---
+aliases:
+  - Wiki
+---
 # Wiki
 
 This directory is the maintained knowledge base.

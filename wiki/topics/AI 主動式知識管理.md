@@ -83,16 +83,16 @@ AI 主動式知識管理的重點有四個：
 
 它也和以下頁面互相支援：
 
-- [[AI 主動式學習]]
-- [[MIT 研究生的 AI 主動式學習法]]
-- [[Query 即知識生產]]
-- [[持久化 Wiki 與 RAG 的差異]]
-- [[工程化讓 AI 輸出更穩定]]
+- [AI 主動式學習](../concepts/AI 主動式學習.md)
+- [MIT 研究生的 AI 主動式學習法](../sources/MIT研究生AI主動式學習法.md)
+- [Query 即知識生產](query-as-knowledge-production.md)
+- [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)
+- [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)
 
 ## 相關頁面
 
-- [[AI 主動式學習]]
-- [[MIT 研究生的 AI 主動式學習法]]
-- [[Query 即知識生產]]
-- [[持久化 Wiki 與 RAG 的差異]]
-- [[工程化讓 AI 輸出更穩定]]
+- [AI 主動式學習](../concepts/AI 主動式學習.md)
+- [MIT 研究生的 AI 主動式學習法](../sources/MIT研究生AI主動式學習法.md)
+- [Query 即知識生產](query-as-knowledge-production.md)
+- [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)
+- [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)

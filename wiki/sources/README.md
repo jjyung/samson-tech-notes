@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sources
+---
 # Sources
 
 Create one page per ingested source or source bundle here.

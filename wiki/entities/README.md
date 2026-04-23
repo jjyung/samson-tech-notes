@@ -1,3 +1,7 @@
+---
+aliases:
+  - Entities
+---
 # Entities
 
 Store pages for named things here.

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Topics
+---
 # Topics
 
 Store evolving synthesis pages here.

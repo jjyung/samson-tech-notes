@@ -1,3 +1,7 @@
+---
+aliases:
+  - Concepts
+---
 # Concepts
 
 Store durable conceptual pages here.

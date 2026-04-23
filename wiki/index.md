@@ -19,6 +19,8 @@
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
 - [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
+- [AI 輔助開發工作流](topics/AI 輔助開發工作流.md) - 將 AI 放進可重複、可審查、可回滾的開發流程。
+- [多模型 Review](topics/multi-model-review.md) - 整理多模型分工審查的協作模式與用途。
 - [Agent 生態近期熱點](topics/agent-ecosystem-hot-topics.md) - 整理 2026-04 前後 agentic coding、MCP vs skills、agent teams 與開源 coding agent 的高討論信號。
 - [MCP Toolbox for Databases](topics/MCP Toolbox for Databases.md) - 整理 Google 的 MCP Toolbox 工具、官方文件與教學，適合分享入門與實作背景。
 - [Agent 權限管理與 MCP 分隔](topics/Agent 權限管理與 MCP 分隔.md) - 整理 agent 權限管理、tool gating、OAuth、sandbox 與 MCP capability separation 的觀點。
