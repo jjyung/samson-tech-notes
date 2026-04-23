@@ -87,7 +87,7 @@
 
 這份研究最適合和下面幾頁一起看：
 
-- [MCP Toolbox for Databases](../topics/MCP Toolbox for Databases.md)
+- [MCP Toolbox for Databases](../topics/mcp-toolbox-for-databases.md)
 - [Agent 生態近期熱點](../topics/agent-ecosystem-hot-topics.md)
 - [AI Coding Agent 設計維度](../topics/agent-coding-agent-design-dimensions.md)
 

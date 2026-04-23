@@ -35,7 +35,7 @@
 
 ## 相關頁面
 
-- [履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md)
-- [履歷與 CV 的 LLM Agent 工作流公開資源研究](../queries/履歷與CV的LLMAgent工作流公開資源研究.md)
-- [履歷 JD Mapping](履歷 JD Mapping.md)
-- [履歷 QA Gate](履歷 QA Gate.md)
+- [履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md)
+- [履歷與 CV 的 LLM Agent 工作流公開資源研究](../queries/resume-cv-llm-agent-workflow-public-resources.md)
+- [履歷 JD Mapping](resume-jd-mapping.md)
+- [履歷 QA Gate](resume-qa-gate.md)

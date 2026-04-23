@@ -108,7 +108,7 @@
 
 這份研究可以和下面幾頁一起看：
 
-- [System Design 熱點與經典資源](../topics/System Design 熱點與經典資源.md)
+- [System Design 熱點與經典資源](../topics/system-design-hot-topics-and-classic-resources.md)
 - [Ingest 工作流](../topics/ingest-workflow.md)
 - [Query 即知識生產](../topics/query-as-knowledge-production.md)
 - [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)

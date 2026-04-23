@@ -109,7 +109,7 @@ MCP 那篇關於 distributed systems / RPC lessons 的文章，雖然主題不�
 
 ## 關聯頁面
 
-- [近期 System Design 熱門與經典資源研究](../queries/近期 System Design 熱門與經典資源研究.md)
+- [近期 System Design 熱門與經典資源研究](../queries/recent-system-design-hot-topics-and-classic-resources.md)
 - [Agent 生態近期熱點](agent-ecosystem-hot-topics.md)
 - [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)
 - [Ingest 工作流](ingest-workflow.md)

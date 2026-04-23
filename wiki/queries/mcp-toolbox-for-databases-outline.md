@@ -96,10 +96,10 @@
 
 ## 可以引用的 references
 
-- [近期 MCP Toolbox for Databases 資源整理](近期 MCP Toolbox for Databases 資源整理.md)
-- [MCP Toolbox for Databases](../topics/MCP Toolbox for Databases.md)
-- [Agent 權限管理與 MCP 分隔](../topics/Agent 權限管理與 MCP 分隔.md)
-- [Agent 權限管理與 MCP 分隔分享提綱](Agent 權限管理與 MCP 分隔分享提綱.md)
+- [近期 MCP Toolbox for Databases 資源整理](recent-mcp-toolbox-for-databases-resources.md)
+- [MCP Toolbox for Databases](../topics/mcp-toolbox-for-databases.md)
+- [Agent 權限管理與 MCP 分隔](../topics/agent-permissions-and-mcp-separation.md)
+- [Agent 權限管理與 MCP 分隔分享提綱](agent-permissions-and-mcp-separation-outline.md)
 
 ## 對外分享的一句話結論
 

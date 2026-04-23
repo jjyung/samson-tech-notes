@@ -36,7 +36,7 @@ JD mapping 的目標不是直接改寫履歷，而是先把職缺要求和候選
 
 ## 相關頁面
 
-- [履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md)
-- [履歷證據庫](履歷證據庫.md)
-- [履歷 QA Gate](履歷 QA Gate.md)
-- [履歷與 CV 的 LLM Agent 工作流公開資源研究](../queries/履歷與CV的LLMAgent工作流公開資源研究.md)
+- [履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md)
+- [履歷證據庫](resume-evidence-base.md)
+- [履歷 QA Gate](resume-qa-gate.md)
+- [履歷與 CV 的 LLM Agent 工作流公開資源研究](../queries/resume-cv-llm-agent-workflow-public-resources.md)

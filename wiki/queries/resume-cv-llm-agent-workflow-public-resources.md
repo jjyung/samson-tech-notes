@@ -152,9 +152,9 @@ aliases:
 
 這份研究很適合跟以下頁面一起看：
 
-- [履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md)
+- [履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md)
 - [Ingest 工作流](../topics/ingest-workflow.md)
 - [Query 即知識生產](../topics/query-as-knowledge-production.md)
 - [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)
 
-這份 query note 是原始研究整理；[履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md) 則是把它上升成長期可維護的 topic synthesis。
+這份 query note 是原始研究整理；[履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md) 則是把它上升成長期可維護的 topic synthesis。

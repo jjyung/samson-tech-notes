@@ -35,6 +35,6 @@
 
 ## 相關頁面
 
-- [履歷與 CV 的 LLM Agent 工作流](../topics/履歷與 CV 的 LLM Agent 工作流.md)
-- [履歷證據庫](履歷證據庫.md)
-- [履歷 QA Gate](履歷 QA Gate.md)
+- [履歷與 CV 的 LLM Agent 工作流](../topics/resume-cv-llm-agent-workflow.md)
+- [履歷證據庫](resume-evidence-base.md)
+- [履歷 QA Gate](resume-qa-gate.md)

@@ -84,6 +84,6 @@ aliases:
 
 ## 關聯頁面
 
-- [近期 Agent 生態熱門文章研究](../queries/近期 Agent 生態熱門文章研究.md)
+- [近期 Agent 生態熱門文章研究](../queries/recent-agent-ecosystem-hot-articles.md)
 - [Agent Research](../sources/agent-research.md)
 - [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)

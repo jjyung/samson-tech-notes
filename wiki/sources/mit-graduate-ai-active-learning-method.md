@@ -70,14 +70,14 @@ aliases:
 
 這個案例和本 wiki 的幾個主題高度一致：
 
-- [AI 主動式知識管理](../topics/AI 主動式知識管理.md)：把學習流程提升為可持續的知識管理
+- [AI 主動式知識管理](../topics/ai-proactive-knowledge-management.md)：把學習流程提升為可持續的知識管理
 - [Query 即知識生產](../topics/query-as-knowledge-production.md)：好問題本身就是知識生產
 - [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)：用流程與檢查點讓 AI 成為可靠工具
 - [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)：把學到的東西沉澱為可維護資產
 
 ## Suggested Follow-up Pages
 
-- [AI 主動式學習](../concepts/AI 主動式學習.md)
-- [AI 主動式知識管理](../topics/AI 主動式知識管理.md)
+- [AI 主動式學習](../concepts/ai-active-learning.md)
+- [AI 主動式知識管理](../topics/ai-proactive-knowledge-management.md)
 - [Query 即知識生產](../topics/query-as-knowledge-production.md)
 - [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)
