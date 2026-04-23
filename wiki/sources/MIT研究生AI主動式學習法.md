@@ -8,7 +8,7 @@ aliases:
 
 - Title: `MIT 研究生的 AI 主動式學習法`
 - Type: social video / viral anecdote / oral transcript
-- URL: https://www.youtube.com/watch?v=qjbEgBB6AfE
+- URL: [https://www.youtube.com/watch?v=qjbEgBB6AfE](https://www.youtube.com/watch?v=qjbEgBB6AfE)
 - Language: zh-CN
 - Reliability note: 內容帶有口播、誇張與轉述成分，適合當作方法靈感，不適合直接當作可驗證事實。
 
@@ -70,15 +70,14 @@ aliases:
 
 這個案例和本 wiki 的幾個主題高度一致：
 
-- [[AI 主動式知識管理]]：把學習流程提升為可持續的知識管理
-- [[Query 即知識生產]]：好問題本身就是知識生產
-- [[工程化讓 AI 輸出更穩定]]：用流程與檢查點讓 AI 成為可靠工具
-- [[持久化 Wiki 與 RAG 的差異]]：把學到的東西沉澱為可維護資產
+- [AI 主動式知識管理](../topics/AI 主動式知識管理.md)：把學習流程提升為可持續的知識管理
+- [Query 即知識生產](../topics/query-as-knowledge-production.md)：好問題本身就是知識生產
+- [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)：用流程與檢查點讓 AI 成為可靠工具
+- [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)：把學到的東西沉澱為可維護資產
 
 ## Suggested Follow-up Pages
 
-- [[AI 主動式學習]]
-- [[AI 主動式知識管理]]
-- [[Query 即知識生產]]
-- [[工程化讓 AI 輸出更穩定]]
-
+- [AI 主動式學習](../concepts/AI 主動式學習.md)
+- [AI 主動式知識管理](../topics/AI 主動式知識管理.md)
+- [Query 即知識生產](../topics/query-as-knowledge-production.md)
+- [工程化讓 AI 輸出更穩定](../concepts/engineering-stabilizes-ai-output.md)

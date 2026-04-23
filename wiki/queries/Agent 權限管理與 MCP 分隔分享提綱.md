@@ -103,7 +103,7 @@
 
 ## 可搭配的 references
 
-- [[近期 Agent 權限管理與 MCP 分隔資源整理]]
-- [[Agent 權限管理與 MCP 分隔]]
-- [[MCP Toolbox for Databases]]
-- [[Agent 生態近期熱點]]
+- [近期 Agent 權限管理與 MCP 分隔資源整理](近期 Agent 權限管理與 MCP 分隔資源整理.md)
+- [Agent 權限管理與 MCP 分隔](../topics/Agent 權限管理與 MCP 分隔.md)
+- [MCP Toolbox for Databases](../topics/MCP Toolbox for Databases.md)
+- [Agent 生態近期熱點](../topics/agent-ecosystem-hot-topics.md)

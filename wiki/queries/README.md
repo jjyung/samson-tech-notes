@@ -12,4 +12,3 @@ Examples:
 - decision memos
 - synthesis notes
 - investigation results
-

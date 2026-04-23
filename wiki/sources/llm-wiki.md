@@ -9,7 +9,7 @@ aliases:
 - Title: `LLM Wiki`
 - Author: `karpathy`
 - Type: idea memo / operating pattern
-- URL: https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md
+- URL: [https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md](https://gist.githubusercontent.com/karpathy/442a6bf555914893e9891c11519de94f/raw/ac46de1ad27f92b28ac95459c782c07f6b8c964a/llm-wiki.md)
 
 ## Summary
 
@@ -107,16 +107,15 @@ It is especially strong for research, technical reading, book notes, internal te
 
 This repository is already aligned with the article's model:
 
-- `raw/` matches the raw source layer
-- `wiki/` matches the maintained knowledge layer
-- `AGENTS.md` acts as the schema layer
+- [raw/](../../raw/) matches the raw source layer
+- [wiki/](../../wiki/) matches the maintained knowledge layer
+- [AGENTS.md](../../AGENTS.md) acts as the schema layer
 
 The note therefore serves as both a source summary and a design rationale for the repo structure itself.
 
 ## Suggested Follow-up Pages
 
-- `wiki/concepts/persistent-wiki-vs-rag.md`
-- `wiki/concepts/wiki-maintenance.md`
-- `wiki/topics/ingest-workflow.md`
-- `wiki/topics/query-as-knowledge-production.md`
-
+- [持久化 Wiki 與 RAG 的差異](../concepts/persistent-wiki-vs-rag.md)
+- [Wiki 維護](../concepts/wiki-maintenance.md)
+- [Ingest 工作流](../topics/ingest-workflow.md)
+- [Query 即知識生產](../topics/query-as-knowledge-production.md)

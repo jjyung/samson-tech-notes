@@ -10,31 +10,31 @@
 
 ### 1. MCP Toolbox for Databases docs
 
-- URL: https://googleapis.github.io/genai-toolbox/
+- URL: [https://googleapis.github.io/genai-toolbox/](https://googleapis.github.io/genai-toolbox/)
 - 類型: official docs
 - 觀察：這是最適合當入口的文件，能快速看懂這個專案要解決什麼問題、如何把 database 能力包成 MCP tools，以及整體使用方式。
 
 ### 2. genai-toolbox GitHub repository
 
-- URL: https://github.com/googleapis/genai-toolbox
+- URL: [https://github.com/googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
 - 類型: official repo
 - 觀察：repo 是最完整的 source of truth，包含 README、專案結構與實作細節。對分享來說，這個來源能幫你補上「真的可以落地」的感覺。
 
 ### 3. Examples directory
 
-- URL: https://github.com/googleapis/genai-toolbox/tree/main/examples
+- URL: [https://github.com/googleapis/genai-toolbox/tree/main/examples](https://github.com/googleapis/genai-toolbox/tree/main/examples)
 - 類型: tutorial / demo
 - 觀察：examples 是最好用來做教學延伸的部分，因為它直接告訴你怎麼把 toolbox 接到實際 database tool 上。適合拿來 demo 或改造成自己的分享素材。
 
 ### 4. Introducing MCP Toolbox for Databases
 
-- URL: https://cloud.google.com/blog/products/databases/introducing-mcp-toolbox-for-databases
+- URL: [https://cloud.google.com/blog/products/databases/introducing-mcp-toolbox-for-databases](https://cloud.google.com/blog/products/databases/introducing-mcp-toolbox-for-databases)
 - 類型: article
 - 觀察：這篇比較像 launch / product story，適合用來講它存在的背景、為什麼 Google 要推出這類工具，以及它和 MCP ecosystem 的關係。
 
 ### 5. Model Context Protocol
 
-- URL: https://modelcontextprotocol.io/
+- URL: [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)
 - 類型: official docs
 - 觀察：如果你要把 MCP Toolbox 講清楚，這篇是背景必讀。它可以幫你把「MCP 是 protocol，Toolbox 是建工具與接 database 的實作層」這個關係講明白。
 
@@ -59,8 +59,8 @@ MCP Toolbox for Databases 可以先用一句話描述成：
 
 這份研究最適合和下面幾頁一起看：
 
-- [[Agent 生態近期熱點]]
-- [[AI Coding Agent 設計維度]]
+- [Agent 生態近期熱點](../topics/agent-ecosystem-hot-topics.md)
+- [AI Coding Agent 設計維度](../topics/agent-coding-agent-design-dimensions.md)
 
 如果你要講的主題是「agent 怎麼接外部能力」，MCP Toolbox 可以被放在 **protocol / tool orchestration** 這一側。
 

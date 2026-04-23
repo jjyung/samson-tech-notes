@@ -13,4 +13,3 @@ Typical contents:
 - key takeaways
 - claims, caveats, and open questions
 - links to related topic, concept, or entity pages
-

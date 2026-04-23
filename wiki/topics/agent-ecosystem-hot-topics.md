@@ -12,7 +12,7 @@ aliases:
 2. **MCP / skills / hooks / plugins 哪種 extensibility 更自然**
 3. **multi-agent / agent teams 是否開始成為標準工程語言**
 
-這些討論和 `[[AI Coding Agent 設計維度]]` 非常對應，差別只是這裡不是抽象維度，而是 2026-04 前後社群真的在吵、真的在看的來源。
+這些討論和 [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md) 非常對應，差別只是這裡不是抽象維度，而是 2026-04 前後社群真的在吵、真的在看的來源。
 
 ## 主要熱點
 
@@ -56,7 +56,7 @@ aliases:
 - 想要 local-first / self-hostable
 - 想要能深入調整 runtime 與 workflow
 
-這和 `[[Agent Research]]` 裡整理的 design space 很一致。
+這和 [Agent Research](../sources/agent-research.md) 裡整理的 design space 很一致。
 
 ## 和既有設計維度的對照
 
@@ -84,7 +84,6 @@ aliases:
 
 ## 關聯頁面
 
-- [[近期 Agent 生態熱門文章研究]]
-- [[Agent Research]]
-- [[AI Coding Agent 設計維度]]
-
+- [近期 Agent 生態熱門文章研究](../queries/近期 Agent 生態熱門文章研究.md)
+- [Agent Research](../sources/agent-research.md)
+- [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)

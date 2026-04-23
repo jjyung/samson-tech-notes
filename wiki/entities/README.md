@@ -12,4 +12,3 @@ Examples:
 - Claude Code
 - qmd
 - specific companies, tools, or frameworks
-
