@@ -1,3 +1,7 @@
+---
+aliases:
+  - Entities
+---
 # Entities
 
 Store pages for named things here.
@@ -8,3 +12,4 @@ Examples:
 - Claude Code
 - qmd
 - specific companies, tools, or frameworks
+

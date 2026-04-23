@@ -1,3 +1,7 @@
+---
+aliases:
+  - Agent Research
+---
 # Agent Research
 
 ## Source
@@ -91,3 +95,4 @@
 - `wiki/concepts/persistent-wiki-vs-rag.md`
 - `wiki/topics/ingest-workflow.md`
 - `wiki/topics/query-as-knowledge-production.md`
+

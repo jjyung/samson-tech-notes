@@ -1,3 +1,7 @@
+---
+aliases:
+  - LLM Wiki
+---
 # LLM Wiki
 
 ## Source
@@ -115,3 +119,4 @@ The note therefore serves as both a source summary and a design rationale for th
 - `wiki/concepts/wiki-maintenance.md`
 - `wiki/topics/ingest-workflow.md`
 - `wiki/topics/query-as-knowledge-production.md`
+

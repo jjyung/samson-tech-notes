@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sources
+---
 # Sources
 
 Create one page per ingested source or source bundle here.
@@ -9,3 +13,4 @@ Typical contents:
 - key takeaways
 - claims, caveats, and open questions
 - links to related topic, concept, or entity pages
+

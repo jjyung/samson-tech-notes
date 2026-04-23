@@ -1,3 +1,7 @@
+---
+aliases:
+  - Queries
+---
 # Queries
 
 Store answers worth keeping here.
@@ -8,3 +12,4 @@ Examples:
 - decision memos
 - synthesis notes
 - investigation results
+

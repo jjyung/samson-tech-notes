@@ -1,3 +1,7 @@
+---
+aliases:
+  - Agent 生態近期熱點
+---
 # Agent 生態近期熱點
 
 ## 概覽
@@ -83,3 +87,4 @@
 - [[近期 Agent 生態熱門文章研究]]
 - [[Agent Research]]
 - [[AI Coding Agent 設計維度]]
+

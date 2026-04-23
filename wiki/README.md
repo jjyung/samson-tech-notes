@@ -1,3 +1,7 @@
+---
+aliases:
+  - Wiki
+---
 # Wiki
 
 This directory is the maintained knowledge base.
@@ -11,3 +15,4 @@ This directory is the maintained knowledge base.
 - `queries/` stores filed answers, comparisons, and one-off analyses worth keeping.
 
 The LLM should update this layer as new sources arrive and as new insights are discovered.
+

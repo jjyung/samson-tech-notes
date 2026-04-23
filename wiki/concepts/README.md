@@ -1,3 +1,7 @@
+---
+aliases:
+  - Concepts
+---
 # Concepts
 
 Store durable conceptual pages here.
@@ -8,3 +12,4 @@ Examples:
 - boundary ownership
 - plan-gate-execute
 - retrieval versus persistent synthesis
+

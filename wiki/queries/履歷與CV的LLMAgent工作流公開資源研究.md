@@ -1,3 +1,7 @@
+---
+aliases:
+  - 履歷與 CV 的 LLM Agent 工作流公開資源研究
+---
 # 履歷與 CV 的 LLM Agent 工作流公開資源研究
 
 ## 問題意識
@@ -154,3 +158,4 @@
 - [[工程化讓 AI 輸出更穩定]]
 
 這份 query note 是原始研究整理；`[[履歷與 CV 的 LLM Agent 工作流]]` 則是把它上升成長期可維護的 topic synthesis。
+
