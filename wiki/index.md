@@ -24,6 +24,7 @@
 - [Agent 生態近期熱點](topics/agent-ecosystem-hot-topics.md) - 整理 2026-04 前後 agentic coding、MCP vs skills、agent teams 與開源 coding agent 的高討論信號。
 - [MCP Toolbox for Databases](topics/mcp-toolbox-for-databases.md) - 整理 Google 的 MCP Toolbox 工具、官方文件與教學，適合分享入門與實作背景。
 - [Agent 權限管理與 MCP 分隔](topics/agent-permissions-and-mcp-separation.md) - 整理 agent 權限管理、tool gating、OAuth、sandbox 與 MCP capability separation 的觀點。
+- [ADK Workflow vs Skill / Prompt 的分層本質](topics/adk-workflow-vs-skill-prompt.md) - 釐清 workflow 負責流程控制、skill/prompt 負責能力執行的系統分層。
 - [Agent 權限管理與 MCP 分隔分享提綱](queries/agent-permissions-and-mcp-separation-outline.md) - 可直接用於分享的 5 分鐘 / 10 分鐘版大綱。
 - [MCP Toolbox for Databases 分享提綱](queries/mcp-toolbox-for-databases-outline.md) - 可直接用於分享的 5 分鐘 / 10 分鐘版大綱。
 - [System Design 熱點與經典資源](topics/system-design-hot-topics-and-classic-resources.md) - 整理近期熱門系統設計文章與經典資源，涵蓋 storage、reliability、scaling、architecture trade-offs.

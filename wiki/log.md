@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-24] query | ADK Workflow vs Skill / Prompt 分層整理
+
+- 將使用者提供的觀點整理為 topic note，明確區分 workflow（流程控制）與 skill/prompt（能力執行）兩層責任。
+- 補上抽象層級、控制權、可測試性、系統規模判斷、反模式與落地設計模式（Workflow + Skill）。
+- 更新 `wiki/index.md`，讓新頁面可被直接索引與後續引用。
+
 ## [2026-04-19] ingest | MIT 研究生的 AI 主動式學習法
 
 - 將使用者提供的口播案例整理為 wiki source note。
