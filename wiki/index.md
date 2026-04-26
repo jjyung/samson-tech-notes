@@ -50,7 +50,8 @@
 ## Queries
 
 - [Queries README](queries/README.md) - Filed answers, comparisons, and analyses.
-- [近期 Agent 生態熱門文章研究](queries/recent-agent-ecosystem-hot-articles.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號。
-- [近期 MCP Toolbox for Databases 資源整理](queries/recent-mcp-toolbox-for-databases-resources.md) - 彙整 MCP Toolbox 的官方文件、repo、examples、launch article 與 MCP spec。
-- [近期 System Design 熱門與經典資源研究](queries/recent-system-design-hot-topics-and-classic-resources.md) - 彙整近期熱門系統設計文章與經典資源。
-- [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/resume-cv-llm-agent-workflow-public-resources.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源。
+- [近期 Agent 生態熱門文章研究](queries/recent-agent-ecosystem-hot-articles.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號.
+- [近期 Tech Signals](queries/recent-tech-signals-2026-04-27.md) - 2026-04-27 的最新技術話題彙整，聚焦 agent、MCP、workflow 與 system design.
+- [近期 MCP Toolbox for Databases 資源整理](queries/recent-mcp-toolbox-for-databases-resources.md) - 彙整 MCP Toolbox 的官方文件、repo、examples、launch article 與 MCP spec.
+- [近期 System Design 熱門與經典資源研究](queries/recent-system-design-hot-topics-and-classic-resources.md) - 彙整近期熱門系統設計文章與經典資源.
+- [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/resume-cv-llm-agent-workflow-public-resources.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源.

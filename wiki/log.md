@@ -74,6 +74,12 @@
 - Added a source note at `wiki/sources/llm-wiki.md`.
 - Indexed the note in `wiki/index.md`.
 
+## [2026-04-27] query | 近期 Tech Signals
+
+- 將 2026-04-27 的 HN / arXiv 技術訊號整理成 query note。
+- 聚焦 agent tooling、capability separation、workflow builder 與 system design 相關主題。
+- 更新 `wiki/index.md`，讓新 query note 可以直接被索引。
+
 ## [2026-04-23] maintenance | Normalize wiki references and add AI dev workflow pages
 
 - 修復 wiki 內部 reference 區塊與相關頁面的 markdown links，讓關聯頁面與來源引用都能直接點開。
