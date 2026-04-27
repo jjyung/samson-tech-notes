@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-28] query | 近期 Tech Signals 2026-04-28
+
+- 將最新一批 HN / arXiv 技術訊號整理成 query note，重點放在 agent 自我擴充、context scoping、sandbox 與 token cost 可觀測性。
+- 上升出 `Agent 生態近期熱點` 的新小節，補上 Tendril、Local Figma Port、Agent MCP Studio 與 agent cost research 的訊號。
+- 更新 `wiki/index.md`，讓新 query note 可被直接索引。
+
 ## [2026-04-28] ingest | Claude Design 系統提示解剖
 
 - 將 `Claude Design 系統提示解剖 — Prompt Anatomy` 整理為 wiki source note，保留原始 URL 與可靠性註記。

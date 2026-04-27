@@ -58,6 +58,17 @@ aliases:
 
 這和 [Agent Research](../sources/agent-research.md) 裡整理的 design space 很一致。
 
+### 5. 2026-04-28 的新訊號：自我擴充、context scoping、成本可觀測性
+
+最近一波訊號又把重點推進一步：
+
+- `Tendril` 這種會自己建立並註冊工具的 agent
+- `Local Figma Port` 這種把 scoped context 轉成 MCP 能力的工具
+- `Agent MCP Studio` 這種 browser-first 的 multi-agent orchestration 工具
+- `How Do AI Agents Spend Your Money?` 這種直接研究 token consumption 的論文
+
+這些都在說同一件事：agent 生態正在從「能不能用」走向「能不能擴充、可控、可量化」。
+
 ## 和既有設計維度的對照
 
 這波熱點最直接對應到以下幾個維度：
