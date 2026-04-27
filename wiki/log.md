@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-27] query | 放在 State 與使用 Context Caching 的本質區別
+
+- 將使用者提供的說明整理為 concept note，明確區分應用層 state 記憶與模型端 context caching 的責任邊界。
+- 補上啟用條件（長度、重複使用、TTL）與實務 best practices（prefix、hit rate、成本平衡）。
+- 更新 `wiki/index.md`，讓該頁面可被直接索引與後續引用。
+
 ## [2026-04-24] query | ADK Workflow vs Skill / Prompt 分層整理
 
 - 將使用者提供的觀點整理為 topic note，明確區分 workflow（流程控制）與 skill/prompt（能力執行）兩層責任。

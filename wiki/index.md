@@ -47,6 +47,7 @@
 - [履歷 QA Gate](concepts/resume-qa-gate.md) - 在匯出前檢查事實、日期、聲稱與 ATS 風險。
 - [履歷量化追問](concepts/resume-quantitative-follow-up.md) - 把缺失數字轉成可追問的量化缺口。
 - [ATS 友善輸出](concepts/ats-friendly-output.md) - 讓履歷格式兼顧人類可讀與 ATS 可解析。
+- [放在 State 與使用 Context Caching 的本質區別](concepts/state-vs-context-caching.md) - 釐清 app state 記憶與模型端 context caching 的責任分層、成本差異與啟用判斷。
 
 ## Queries
 
