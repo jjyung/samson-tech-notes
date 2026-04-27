@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-28] ingest | Claude Design 系統提示解剖
+
+- 將 `Claude Design 系統提示解剖 — Prompt Anatomy` 整理為 wiki source note，保留原始 URL 與可靠性註記。
+- 上升出 `系統提示即架構` topic page，整理 prompt layering、taste/discipline、workflow 與 verification 的可重用框架。
+- 更新 `wiki/index.md`，讓新 source 與 topic 可以直接被索引。
+
 ## [2026-04-27] query | 放在 State 與使用 Context Caching 的本質區別
 
 - 將使用者提供的說明整理為 concept note，明確區分應用層 state 記憶與模型端 context caching 的責任邊界。
@@ -11,6 +17,7 @@
 - 將使用者提供的觀點整理為 topic note，明確區分 workflow（流程控制）與 skill/prompt（能力執行）兩層責任。
 - 補上抽象層級、控制權、可測試性、系統規模判斷、反模式與落地設計模式（Workflow + Skill）。
 - 更新 `wiki/index.md`，讓新頁面可被直接索引與後續引用。
+
 
 ## [2026-04-19] ingest | MIT 研究生的 AI 主動式學習法
 
@@ -85,6 +92,12 @@
 - Read and summarized the `LLM Wiki` idea memo by `jjyung`.
 - Added a source note at `wiki/sources/llm-wiki.md`.
 - Indexed the note in `wiki/index.md`.
+
+## [2026-04-27] query | 近期 Tech Signals
+
+- 將 2026-04-27 的 HN / arXiv 技術訊號整理成 query note。
+- 聚焦 agent tooling、capability separation、workflow builder 與 system design 相關主題。
+- 更新 `wiki/index.md`，讓新 query note 可以直接被索引。
 
 ## [2026-04-23] maintenance | Normalize wiki references and add AI dev workflow pages
 

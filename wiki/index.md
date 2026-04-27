@@ -10,6 +10,7 @@
 - [Sources README](sources/README.md) - Summary pages derived from raw source material.
 - [LLM Wiki](sources/llm-wiki.md) - Summary of the persistent wiki model for LLM-managed knowledge bases.
 - [Agent Research](sources/agent-research.md) - 以 GitHub agent 專案為樣本的研究工作區，聚焦設計哲學與比較維度。
+- [Claude Design 系統提示解剖](sources/claude-design-system-prompt-anatomy.md) - 拆解 Claude Design 的 system prompt，整理成可重用的 prompt architecture 觀察。
 - [dotLLM 與 AI 輔助開發的工程方法](sources/dotllm-ai-assisted-development.md) - 從 dotLLM 案例整理 AI 輔助開發如何靠工程流程變得可控。
 - [MIT 研究生的 AI 主動式學習法](sources/mit-graduate-ai-active-learning-method.md) - 口播案例整理：用 AI 建框架、找爭議、出自測題來加速學習。
 
@@ -19,6 +20,7 @@
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
 - [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
+- [系統提示即架構](topics/system-prompt-as-architecture.md) - 把 system prompt 視為分層架構的設計框架。
 - [AI 輔助開發工作流](topics/ai-assisted-development-workflow.md) - 將 AI 放進可重複、可審查、可回滾的開發流程。
 - [多模型 Review](topics/multi-model-review.md) - 整理多模型分工審查的協作模式與用途。
 - [Agent 生態近期熱點](topics/agent-ecosystem-hot-topics.md) - 整理 2026-04 前後 agentic coding、MCP vs skills、agent teams 與開源 coding agent 的高討論信號。
@@ -52,7 +54,8 @@
 ## Queries
 
 - [Queries README](queries/README.md) - Filed answers, comparisons, and analyses.
-- [近期 Agent 生態熱門文章研究](queries/recent-agent-ecosystem-hot-articles.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號。
-- [近期 MCP Toolbox for Databases 資源整理](queries/recent-mcp-toolbox-for-databases-resources.md) - 彙整 MCP Toolbox 的官方文件、repo、examples、launch article 與 MCP spec。
-- [近期 System Design 熱門與經典資源研究](queries/recent-system-design-hot-topics-and-classic-resources.md) - 彙整近期熱門系統設計文章與經典資源。
-- [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/resume-cv-llm-agent-workflow-public-resources.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源。
+- [近期 Agent 生態熱門文章研究](queries/recent-agent-ecosystem-hot-articles.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號.
+- [近期 Tech Signals](queries/recent-tech-signals-2026-04-27.md) - 2026-04-27 的最新技術話題彙整，聚焦 agent、MCP、workflow 與 system design.
+- [近期 MCP Toolbox for Databases 資源整理](queries/recent-mcp-toolbox-for-databases-resources.md) - 彙整 MCP Toolbox 的官方文件、repo、examples、launch article 與 MCP spec.
+- [近期 System Design 熱門與經典資源研究](queries/recent-system-design-hot-topics-and-classic-resources.md) - 彙整近期熱門系統設計文章與經典資源.
+- [履歷與 CV 的 LLM Agent 工作流公開資源研究](queries/resume-cv-llm-agent-workflow-public-resources.md) - 彙整公開的履歷／CV LLM workflow、skill package、parser 與 best-practice 來源.
