@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-28] ingest | Claude Design 系統提示解剖
+
+- 將 `Claude Design 系統提示解剖 — Prompt Anatomy` 整理為 wiki source note，保留原始 URL 與可靠性註記。
+- 上升出 `系統提示即架構` topic page，整理 prompt layering、taste/discipline、workflow 與 verification 的可重用框架。
+- 更新 `wiki/index.md`，讓新 source 與 topic 可以直接被索引。
+
 ## [2026-04-19] ingest | MIT 研究生的 AI 主動式學習法
 
 - 將使用者提供的口播案例整理為 wiki source note。

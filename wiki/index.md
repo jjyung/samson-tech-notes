@@ -10,6 +10,7 @@
 - [Sources README](sources/README.md) - Summary pages derived from raw source material.
 - [LLM Wiki](sources/llm-wiki.md) - Summary of the persistent wiki model for LLM-managed knowledge bases.
 - [Agent Research](sources/agent-research.md) - 以 GitHub agent 專案為樣本的研究工作區，聚焦設計哲學與比較維度。
+- [Claude Design 系統提示解剖](sources/claude-design-system-prompt-anatomy.md) - 拆解 Claude Design 的 system prompt，整理成可重用的 prompt architecture 觀察。
 - [dotLLM 與 AI 輔助開發的工程方法](sources/dotllm-ai-assisted-development.md) - 從 dotLLM 案例整理 AI 輔助開發如何靠工程流程變得可控。
 - [MIT 研究生的 AI 主動式學習法](sources/mit-graduate-ai-active-learning-method.md) - 口播案例整理：用 AI 建框架、找爭議、出自測題來加速學習。
 
@@ -19,6 +20,7 @@
 - [Ingest 工作流](topics/ingest-workflow.md) - 將原始來源整理並整合進 wiki 的標準流程。
 - [Query 即知識生產](topics/query-as-knowledge-production.md) - 把高價值問答結果回寫為 wiki 資產的觀點。
 - [AI Coding Agent 設計維度](topics/agent-coding-agent-design-dimensions.md) - 比較不同 coding agent 的共同比較框架。
+- [系統提示即架構](topics/system-prompt-as-architecture.md) - 把 system prompt 視為分層架構的設計框架。
 - [AI 輔助開發工作流](topics/ai-assisted-development-workflow.md) - 將 AI 放進可重複、可審查、可回滾的開發流程。
 - [多模型 Review](topics/multi-model-review.md) - 整理多模型分工審查的協作模式與用途。
 - [Agent 生態近期熱點](topics/agent-ecosystem-hot-topics.md) - 整理 2026-04 前後 agentic coding、MCP vs skills、agent teams 與開源 coding agent 的高討論信號。
