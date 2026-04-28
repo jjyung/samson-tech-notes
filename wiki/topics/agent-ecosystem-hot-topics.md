@@ -63,6 +63,7 @@ aliases:
 最近一波訊號又把重點推進一步：
 
 - `Tendril` 這種會自己建立並註冊工具的 agent
+- `TealKit` 這種把 local agent UI 與 MCP 結合的控制平面
 - `Local Figma Port` 這種把 scoped context 轉成 MCP 能力的工具
 - `Agent MCP Studio` 這種 browser-first 的 multi-agent orchestration 工具
 - `How Do AI Agents Spend Your Money?` 這種直接研究 token consumption 的論文
