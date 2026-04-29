@@ -1,5 +1,11 @@
 # Log
 
+## [2026-04-29] query | 近期 Tech Signals 2026-04-29
+
+- 將 2026-04-29 的 HN / arXiv 技術訊號整理成 query note，重點放在 coding-agent benchmark、state portability、agent security gateway 與 microservices lessons。
+- 補強 `Agent 生態近期熱點`、`Agent 權限管理與 MCP 分隔`、`System Design 熱點與經典資源`，讓新訊號直接回到主題頁。
+- 更新 `wiki/index.md`，讓新 query note 可以直接被索引。
+
 ## [2026-04-28] query | 近期 Tech Signals 2026-04-28（control plane / permissions / review update）
 
 - 補充 2026-04-28 的高信號項目，重點放在 agent 自我擴充、MCP control plane、sandbox、2FA for destructive ops、multi-model review 與 platform governance。

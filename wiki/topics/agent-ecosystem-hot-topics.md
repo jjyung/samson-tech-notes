@@ -58,17 +58,21 @@ aliases:
 
 這和 [Agent Research](../sources/agent-research.md) 裡整理的 design space 很一致。
 
-### 5. 2026-04-28 的新訊號：自我擴充、context scoping、成本可觀測性
+### 5. 2026-04-28 / 2026-04-29 的新訊號：自我擴充、context scoping、成本可觀測性與 state portability
 
-最近一波訊號又把重點推進一步：
+最近兩波訊號又把重點推進一步：
 
 - `Tendril` 這種會自己建立並註冊工具的 agent
 - `TealKit` 這種把 local agent UI 與 MCP 結合的控制平面
 - `Local Figma Port` 這種把 scoped context 轉成 MCP 能力的工具
 - `Agent MCP Studio` 這種 browser-first 的 multi-agent orchestration 工具
+- `ForgeCode: Top open source coding agent in Terminal-Bench 2.0`
+  - 把 agent 的焦點拉回 terminal-level 執行品質與 benchmark 表現。
+- `Portability Problems: Syncing Coding Agent State Across Machines`
+  - 顯示 agent 的 state / memory 正在面對跨機器、跨 sandbox 的 portability 問題。
 - `How Do AI Agents Spend Your Money?` 這種直接研究 token consumption 的論文
 
-這些都在說同一件事：agent 生態正在從「能不能用」走向「能不能擴充、可控、可量化」。
+這些都在說同一件事：agent 生態正在從「能不能用」走向「能不能擴充、可控、可量化、可移轉」。
 
 ## 和既有設計維度的對照
 
