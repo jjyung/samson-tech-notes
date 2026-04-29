@@ -21,6 +21,17 @@ aliases:
 - 另一個模型負責 code review
 - 另一個模型負責安全性、邊界或文件審查
 
+## 2026-04-28 的新訊號
+
+最近的 HN 訊號把這條線往「可重用的協作流程」推進：
+
+- `Async multi-person collaboration skill for Claude Code`
+  - 代表多人 / 多角色協作已經開始被包成 skill，而不只是臨時流程。
+- `Knowerage – code coverage for LLM analysis`
+  - 代表 review 不只是「看一眼」，而是開始追求可量化的覆蓋概念。
+
+這和多模型 Review 的核心想法很一致：把審查、驗證、修正拆成不同角色，讓模型互相補盲。
+
 ## 跟既有筆記的關係
 
 - [dotLLM 與 AI 輔助開發的工程方法](../sources/dotllm-ai-assisted-development.md)
