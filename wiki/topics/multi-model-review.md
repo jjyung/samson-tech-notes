@@ -32,8 +32,20 @@ aliases:
 
 這和多模型 Review 的核心想法很一致：把審查、驗證、修正拆成不同角色，讓模型互相補盲。
 
+## 2026-04-30 的新訊號
+
+這批訊號把 multi-model review 往「共享 workspace + async handoff」再推一步：
+
+- `Show HN: Nimbalyst open-source visual workspace for ClaudeCode, Codex, OpenCode`
+  - 表示同一個 workspace 可以容納不同模型與不同操作角色，方便比較、接手與互相審查。
+- `Show HN: Async multi-person collaboration skill for Claude Code`
+  - 這次的訊號也再次提醒：review 與協作正在從臨時做法變成可複用 skill。
+
+這個主題的下一個關鍵問題會是：如何把實作、review、handoff、回滾都放進可追蹤的流程裡。
+
 ## 跟既有筆記的關係
 
 - [dotLLM 與 AI 輔助開發的工程方法](../sources/dotllm-ai-assisted-development.md)
 - [AI 輔助開發工作流](ai-assisted-development-workflow.md)
+- [近期 Tech Signals 2026-04-30](../queries/recent-tech-signals-2026-04-30.md)
 - [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)

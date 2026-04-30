@@ -74,6 +74,25 @@ aliases:
 
 這些都在說同一件事：agent 生態正在從「能不能用」走向「能不能擴充、可控、可量化、可移轉」。
 
+### 6. 2026-04-30：workspace、provider fallback 與 terminal-native comparison 變成新的產品層重點
+
+最近這批訊號把 agent 生態往「可比較、可切換、可接手」再推一步：
+
+- `Show HN: Nimbalyst open-source visual workspace for ClaudeCode, Codex, OpenCode`
+  - 把不同 agent / model 放進同一 workspace，表示使用者在乎的是控制平面，而不是單一 CLI。
+- `Albert: A model-agnostic AI coding CLI with provider fallback`
+  - 把 provider fallback 當成 runtime 能力，說明模型抽象開始往 workflow portability 收斂。
+- `Terminal AI Coding Agents Comparison Table`
+  - 雖然是比較表型訊號，但它反映出 terminal-native coding agents 已經進入可橫向比較的階段。
+
+這條線和 [多模型 Review](multi-model-review.md) 以及 [Agent 權限管理與 MCP 分隔](agent-permissions-and-mcp-separation.md) 很接近：
+
+- 可切換的模型
+- 可接手的 workspace
+- 可治理的工具邊界
+
+都在朝同一個方向收斂。
+
 ## 和既有設計維度的對照
 
 這波熱點最直接對應到以下幾個維度：
@@ -101,5 +120,6 @@ aliases:
 ## 關聯頁面
 
 - [近期 Agent 生態熱門文章研究](../queries/recent-agent-ecosystem-hot-articles.md)
+- [近期 Tech Signals 2026-04-30](../queries/recent-tech-signals-2026-04-30.md)
 - [Agent Research](../sources/agent-research.md)
 - [AI Coding Agent 設計維度](agent-coding-agent-design-dimensions.md)
