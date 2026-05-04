@@ -43,6 +43,15 @@ aliases:
 
 這個主題的下一個關鍵問題會是：如何把實作、review、handoff、回滾都放進可追蹤的流程裡。
 
+## 2026-05-04：review tooling 走向專門化
+
+- `Show HN: Vdiff – CLI to help you review AI-generated code`
+  - 顯示 review 可以被做成獨立 CLI，而不是只依賴 IDE 內的人工檢查。
+- `Show HN: Nimbalyst open-source visual workspace for ClaudeCode, Codex, OpenCode`
+  - 共享 workspace 讓不同模型與不同角色更容易接手、比對與重審同一份工作。
+
+這些訊號延續了多模型 Review 的核心方向：實作、審查、接手、修正，越來越像一個可重複的流程，而不是臨時的人工習慣。
+
 ## 跟既有筆記的關係
 
 - [dotLLM 與 AI 輔助開發的工程方法](../sources/dotllm-ai-assisted-development.md)

@@ -55,6 +55,7 @@
 
 - [Queries README](queries/README.md) - Filed answers, comparisons, and analyses.
 - [近期 Agent 生態熱門文章研究](queries/recent-agent-ecosystem-hot-articles.md) - 彙整 2026-04 前後 agent 相關高討論文章與 HN 熱門信號.
+- [近期 Tech Signals 2026-05-04](queries/recent-tech-signals-2026-05-04.md) - 2026-05-04 的最新技術話題彙整，聚焦 local-first coding agents、capability proxies、review tooling 與 cloud-native correctness.
 - [近期 Tech Signals 2026-04-30](queries/recent-tech-signals-2026-04-30.md) - 2026-04-30 的最新技術話題彙整，聚焦 coding agent workspace、permissions boundary、multi-model review 與 replayable data systems.
 - [近期 Tech Signals 2026-04-27](queries/recent-tech-signals-2026-04-27.md) - 2026-04-27 的最新技術話題彙整，聚焦 agent、MCP、workflow 與 system design.
 - [近期 Tech Signals 2026-04-28](queries/recent-tech-signals-2026-04-28.md) - 2026-04-28 的最新技術話題彙整，聚焦 agent self-extension、MCP control plane、sandbox、review workflows 與 cost visibility.

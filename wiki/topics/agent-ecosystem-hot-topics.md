@@ -93,6 +93,19 @@ aliases:
 
 都在朝同一個方向收斂。
 
+## 2026-05-04：local-first、knowledge layer 與 issue-tracker orchestration
+
+這次的新訊號把 agent 生態往更可移轉的 runtime 方向推：
+
+- `Usage-based pricing killing your vibe, here's how to roll your own local AI`
+  - local / self-hosted agent 的動機同時來自成本、隱私與 workflow 可控性。
+- `Show HN: Orchestrate Dockerized Claude Code sessions from your issue tracker`
+  - issue tracker 開始扮演 agent orchestration 與 handoff 的控制面。
+- `Show HN: [inerrata] – Collective and Causal Knowledge Layer for Coding Agents`
+  - knowledge layer 指向的是可持久化的 context、決策與 causal traces，而不只是單次對話記憶。
+
+這三個訊號一起看，說明 agent 生態正從「單次執行」走向「可接手、可持久、可編排」的工作台。
+
 ## 和既有設計維度的對照
 
 這波熱點最直接對應到以下幾個維度：
