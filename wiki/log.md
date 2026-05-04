@@ -1,5 +1,17 @@
 # Log
 
+## [2026-05-04] query | 近期 Tech Signals 2026-05-04
+
+- 將 2026-05-04 的 HN / 文章訊號整理成 query note，重點放在 local-first coding agents、knowledge layers、capability proxies、review tooling 與 cloud-native correctness。
+- 補強 `Agent 生態近期熱點`、`Agent 權限管理與 MCP 分隔`、`多模型 Review`、`System Design 熱點與經典資源`，讓最新訊號可以直接回到對應主題頁。
+- 更新 `wiki/index.md`，讓這次新 query note 可被直接索引。
+
+## [2026-04-30] query | 近期 Tech Signals 2026-04-30
+
+- 將 2026-04-30 的 HN 技術訊號整理成 query note，重點放在 coding agent workspace、provider fallback、workspace-scoped permissions、async collaboration 與 replayable storage signals。
+- 補強 `Agent 生態近期熱點`、`Agent 權限管理與 MCP 分隔`、`多模型 Review`、`System Design 熱點與經典資源`，讓最新訊號直接回到對應主題頁。
+- 更新 `wiki/index.md`，讓新 query note 可以直接被索引。
+
 ## [2026-04-28] query | 近期 Tech Signals 2026-04-28（control plane / permissions / review update）
 
 - 補充 2026-04-28 的高信號項目，重點放在 agent 自我擴充、MCP control plane、sandbox、2FA for destructive ops、multi-model review 與 platform governance。
